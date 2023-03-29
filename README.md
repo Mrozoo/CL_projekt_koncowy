@@ -3,7 +3,7 @@ Gotowy końcowy projekt z kusu DataLab
 
 Jest to projekt, który został wykonany na zaliczenie kursu DataLab - Analityk danych.
 
-Dane pobierane z API pochodzą z serwisku kaggle.com (https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations)
+Dane pobierane z API pochodzą z serwisu kaggle.com (https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations)
 i dotyczą lotów samolotow w USA.
 
 Na projekt składa się kilka następujących etapów: 
